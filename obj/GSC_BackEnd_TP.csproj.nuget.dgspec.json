@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FacundoB\\source\\repos\\GSC_BackEnd_TP\\GSC_BackEnd_TP.csproj": {}
+    "C:\\Users\\beleb\\Desktop\\Nueva carpeta\\NEt\\SanCristobal_BackEnd\\GSC_BackEnd_TP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FacundoB\\source\\repos\\GSC_BackEnd_TP\\GSC_BackEnd_TP.csproj": {
+    "C:\\Users\\beleb\\Desktop\\Nueva carpeta\\NEt\\SanCristobal_BackEnd\\GSC_BackEnd_TP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FacundoB\\source\\repos\\GSC_BackEnd_TP\\GSC_BackEnd_TP.csproj",
+        "projectUniqueName": "C:\\Users\\beleb\\Desktop\\Nueva carpeta\\NEt\\SanCristobal_BackEnd\\GSC_BackEnd_TP.csproj",
         "projectName": "GSC_BackEnd_TP",
-        "projectPath": "C:\\Users\\FacundoB\\source\\repos\\GSC_BackEnd_TP\\GSC_BackEnd_TP.csproj",
-        "packagesPath": "C:\\Users\\FacundoB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FacundoB\\source\\repos\\GSC_BackEnd_TP\\obj\\",
+        "projectPath": "C:\\Users\\beleb\\Desktop\\Nueva carpeta\\NEt\\SanCristobal_BackEnd\\GSC_BackEnd_TP.csproj",
+        "packagesPath": "C:\\Users\\beleb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beleb\\Desktop\\Nueva carpeta\\NEt\\SanCristobal_BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FacundoB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\beleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

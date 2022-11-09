@@ -10,6 +10,7 @@ namespace GSC_BackEnd_TP.Mapper
         {
 
             CreateMap<PersonDto, Person>();
+            CreateMap<ThingDto, Thing>();
         }
     }
 }

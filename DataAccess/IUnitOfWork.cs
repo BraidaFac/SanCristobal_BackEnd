@@ -2,7 +2,7 @@
 {
     public interface IUnitOfWork
     {
-        //IThingRepository ThingRepository { get; }
+        IThingRepository ThingRepository { get; }
         IPersonRepository PersonRepository { get; }
         //ILoanRepository LoanRepository { get; }
         //ICategoryRepository CategoryRepository { get; }
